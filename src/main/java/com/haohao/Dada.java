@@ -7,4 +7,6 @@ public class Dada {
 
 
     private String start;
+
+    private String end;
 }
